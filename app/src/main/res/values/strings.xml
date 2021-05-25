@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HlsPlayer</string>
+    <string name="retry">retry</string>
+</resources>
