@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HlsPlayer.iml" filepath="$PROJECT_DIR$/.idea/modules/HlsPlayer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/HlsPlayer.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/HlsPlayer.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MyTV.iml" filepath="$PROJECT_DIR$/.idea/modules/MyTV.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MyTV.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MyTV.app.iml" />
     </modules>
   </component>
 </project>
